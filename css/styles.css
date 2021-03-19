@@ -34,9 +34,18 @@ padding-right: 1px;
 box-shadow: 0 0px 30px 0 black;
 background-color:black;
 }
+
 .nav-link{
 font-size: 20px;
 text-align: center;
+transition: 3s;
+}
+.card-group{
+padding-left: 1px;
+padding-right: 1px;
+padding-bottom: 5px;
+box-shadow: 0 0px 30px 0 black;
+background-color: gray;
 }
 
 
