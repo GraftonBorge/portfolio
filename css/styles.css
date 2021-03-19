@@ -1,15 +1,38 @@
+body{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 h1{
-text-align: center;}
+text-align: center;
+padding-left: 1px;
+padding-right: 1px;
+padding-bottom: 5px;
+box-shadow: 0 0px 30px 0 black;
+background-color: gray;
+transition: 3s;
+}
 h2{
 text-align: center;
-padding-bottom: 10px;
+padding-left: 1px;
+padding-right: 1px;
+padding-bottom: 5px;
+box-shadow: 0 0px 30px 0 black;
+background-color: gray;
+transition: 3s;
 }
 h4{
+text-align: center;
+}
+p{
+color: black;
 text-align: center;
 }
 img{
 float: initial;
 width: 25%;
+padding-left: 1px;
+padding-right: 1px;
+box-shadow: 0 0px 30px 0 black;
+background-color:black;
 }
 .nav-link{
 font-size: 20px;
