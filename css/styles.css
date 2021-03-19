@@ -4,8 +4,9 @@ h2{text-align: center;
 .jumbotron{}
 .container{}
 img{
-float: right;
+float: initial;
 width: 25%;
+
 }
 
 
