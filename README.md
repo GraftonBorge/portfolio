@@ -21,7 +21,7 @@ _This is my first programming portfolio. Made with the knowledge gained through 
 * _open with GUI_
 
 _link to Github repository(https://github.com/GraftonBorge/portfolio.git)_
-_link to 
+_link to gh-pages (https://graftonborge.github.io/portfolio/)
 
 ## Known Bugs
 
