@@ -25,7 +25,7 @@ _link to gh-pages (https://graftonborge.github.io/portfolio/)
 
 ## Known Bugs
 
-* _h4 tags wont show_
+* _ _
 * _hobby and skills cards wont display_
 
 ## License

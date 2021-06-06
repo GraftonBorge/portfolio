@@ -21,6 +21,7 @@ background-color: gray;
 transition: 3s;
 }
 h4{
+  color: black;
 text-align: center;
 }
 p{
@@ -39,13 +40,7 @@ font-size: 20px;
 text-align: center;
 transition: 3s;
 }
-.card-group{
-padding-left: 1px;
-padding-right: 1px;
-padding-bottom: 5px;
-box-shadow: 0 0px 30px 0 black;
-background-color: gray;
-}
+
 span{
 font-family: fantasy;
 }
