@@ -1,48 +1,55 @@
 body{
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-background-color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: black;
 }
 h1{
-text-align: center;
-padding-left: 1px;
-padding-right: 1px;
-padding-bottom: 5px;
-box-shadow: 0 0px 30px 0 black;
-background-color: gray;
-transition: 3s;
+  text-align: center;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-bottom: 5px;
+  box-shadow: 0 0px 30px 0 black;
+  background-color: gray;
+  transition: 3s;
 }
 h2{
-text-align: center;
-padding-left: 1px;
-padding-right: 1px;
-padding-bottom: 5px;
-box-shadow: 0 0px 30px 0 black;
-background-color: gray;
-transition: 3s;
+  text-align: center;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-bottom: 5px;
+  box-shadow: 0 0px 30px 0 black;
+  background-color: gray;
+  transition: 3s;
 }
 h4{
-  color: black;
-text-align: center;
+  margin: 50px;
+  color:black;
+  text-align: center;
 }
 p{
-color: black;
-text-align: center;
+  color: black;
+  text-align: center;
 }
 img{
-width: 25%;
-padding-left: 1px;
-padding-right: 1px;
-padding-bottom: 30px;
-box-shadow: 0 0px 30px 0 black;
+  border-style: groove ;
+  width: 25%;
+  padding-left: 1px;
+  padding-right: 1px;
+  box-shadow: 0 0px 30px 0 black;
+}
+.ol{
+
+}
+.contact{
+  border-style: groove;
+  float: right;
 }
 .nav-link{
-font-size: 20px;
-text-align: center;
-transition: 3s;
-}
-
+  font-size: 20px;
+  text-align: center;
+  transition: 3s;
+  }
 span{
-font-family: fantasy;
-}
+  font-family: fantasy;
+  }
 
 
